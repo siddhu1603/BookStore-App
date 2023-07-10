@@ -1,0 +1,2 @@
+first start the backend (npm start in Backend directory)
+then start the app (npm start in book-store directory)
